@@ -1,0 +1,3 @@
+# Game Hub
+
+Games Hub is a React and TypeScript-based web application that allows users to explore a collection of games, sorted into different categories. Users can search and sort the games based on various criteria such as genre, title, and rating.
